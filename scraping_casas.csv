@@ -1,4 +1,4 @@
-referencia;titulo_anuncio;estado_casa;ubicacion;año_construccion;nro_baño;m2_terreno;nro_plantas;m2_edificados;nro_garajes;precio_venta
+﻿referencia;titulo_anuncio;estado_casa;ubicacion;año_construccion;nro_habitaciones;nro_baño;m2_terreno;nro_plantas;m2_edificados;nro_garajes;precio_venta
 E457CA;En venta casa de Lujo en Las Palmas;Excelente estado;Las Palmas, Las palmas, Santa Cruz;¡Preguntale!;4;3;600 m2;1;650 m2;2;U$S 850.000
 Q67923;CASA EN VENTA EN LAS PALMAS;Excelente estado;ENTRE 3ER Y 4TO ANILLO C/ BAHIA CACERES Y CAPARUS , Las palmas, Santa Cruz;¡Preguntale!;4;3;726 m2;1;¡Preguntale!;2;U$S 685.000
 WC49A9;CASA EN VENTA, IRPAVI;Buen estado;CALLE 18 Y OVANDO, Irpavi, La Paz;¡Preguntale!;3;3;643 m2;1;643 m2;3;U$S 449.000
@@ -54,7 +54,7 @@ I19632;Casa en el mejor clima de La Paz, Carreras lado huajchilla.;A estrenar;He
 P96E43;HERMOSA CASA VENTA Av VILLAZON KM3;Excelente estado;AV VILLAZON KM3 ENTRANDO A LA AV CHAPARE CERCANO AL HIPERMAXI , Sacaba, Cochabamba;2020;5;3;195 m2;3;297 m2;3;U$S 160.000
 CC3383;Calle Cañada Strongest entre calles Canadá y Platanillos;Excelente estado;Calle Cañada Strongest 355 entre calles Canadá y Platanillos , Centro, Santa Cruz;2013;4;3;222 m2;1;280 m2;2;U$S 249.000
 L788B1;Zona EL Palmar - Barrio San Francisco Sur - 7mo anillo Avenida Bolivia;Sin Definir;Sur, Santa Cruz;2022;3;2;211 m2;1;115 m2;1;U$S 69.900
-B9A47F;Casa En Venta;Buen estado;Avenida 4 de Octubre; Barrio Ñuflo de Chávez, Sur, Santa Cruz;2018;4;3;300 m2;2;185 m2;2;U$S 87.000
+B9A47F;Casa En Venta;Buen estado;Avenida 4 de Octubre, Barrio Ñuflo de Chávez, Sur, Santa Cruz;2018;4;3;300 m2;2;185 m2;2;U$S 87.000
 ZB634F;* HERMOSA CASA, 4 DORM.-URUBO * CONDOMINIO SANTA CRUZ DE LA COLINA;Excelente estado;Condominio Santa Cruz de la Colina Mza 52 Casa 8A, Urubó, Santa Cruz;2018;4;3;364 m2;2;325 m2;3;U$S 239.000
 BDEDF9;Gran Casa DE UN PISO, PUEDE SER EDIFICIO 11 pisos o COMERCIAL GRAN PARQUEADERO;Excelente estado;Muyurina, Cochabamba;¡Preguntale!;4;2;651 m2;1;236 m2;3;U$S 570.000
 L35003;CONDOMINIO MYKONOS, en una ubicacion estrategica, con casas amplias, frescas.;A estrenar;Regimiento Lanza, Esq. San Mateo Nr. 60, Sur, Santa Cruz;2021;2;3;103 m2;2;158 m2;2;U$S 134.990
@@ -89,7 +89,7 @@ Z41324;Casa de 4 dormitorios en pampa de la Isla;Buen estado;virgen de cotoca, E
 T30577;AMPLIA CASA EN VENTA ZONA NORTE;Buen estado;Avenida Alemana, entre 2do y 3er anillo , Norte, Santa Cruz;1990;5;3;900 m2;2;476 m2;3;U$S 498.000
 S759F4;Oferto Hermosa Casa en Urubo;A estrenar;Condominio Santa Cruz de la Colina, Urubó, Santa Cruz;2020;4;3;373 m2;2;300 m2;3;U$S 225.000
 G4F567;C/ Estrella Nº 360, Entre 2do y 3er anillo de la Av/Pirai y grigota;Sin Definir;Urbari, Santa Cruz;1978;5;3;415 m2;¡Preguntale!;409 m2;2;U$S 330.000
-H284F1;Casa en Venta para alojamiento oficina o restaurante;Excelente estado;3 pasos al frente y radial 10; 1 cuadra antes del 4to anillo. B/ estación argentina., Este, Santa Cruz;2015;5;3;460 m2;2;550 m2;3;U$S 248.000
+H284F1;Casa en Venta para alojamiento oficina o restaurante;Excelente estado;3 pasos al frente y radial 10, 1 cuadra antes del 4to anillo. B/ estación argentina., Este, Santa Cruz;2015;5;3;460 m2;2;550 m2;3;U$S 248.000
 O3C9E6;Hermosa Casa en Venta ubicada en el Condominio Mirage - Urubó;A estrenar;Condomio Mirage , Urubó, Santa Cruz;2022;3;3;379 m2;2;150 m2;2;U$S 149.500
 I6572D;Chalet en Urbanización España;Buen estado;Av. Pedro Casals, Sur, Santa Cruz;2007;4;3;240 m2;1;160 m2;2;U$S 115.000
 G32D00;EN VENTA CASA EN TIQUIPAYA;Excelente estado;Tiquipaya, Cochabamba;¡Preguntale!;4;3;1.256 m2;2;240 m2;1;U$S 250.000
@@ -103,7 +103,7 @@ UB293;ULTIMO TOWNHOUSE EN CONDOMINIO TROJES DEL ALBA;A estrenar;Tiquipaya, Cocha
 NB257;Inscrito en derechos reales;Buen estado;Km13 Doble vía a la Guardia / Condominio Club Campestre , Sur, Santa Cruz;2019;5;3;515 m2;3;350 m2;1;U$S 205.000
 N97BD;HERMOSA CASA DE CAMPO CON OPORTUNIDAD DE NEGOCIO UBICADA EN TIQUIPAYA.;Excelente estado;Calle Cochabamba camino a Apote, Tiquipaya - Cochabamba, Tiquipaya, Cochabamba;1993;4;3;7.021 m2;3;854 m2;3;U$S 1.400.000
 ICBBB;Av. Dorvigni y Av. Segunda;Sin Definir;Villa Busch, Cochabamba;2018;4;3;310 m2;¡Preguntale!;420 m2;2;U$S 295.000
-NCE2E;LUJOSA RESIDENICIA EN URBANIZACIÓN "EL BOSQUE";Excelente estado;AV. CENTENARIO. URBANIZACIÓN "EL BOSQUE", Condebamba, Cochabamba;2019;4;3;1.000 m2;2;800 m2;3;U$S 790.000
+NCE2E;"LUJOSA RESIDENICIA EN URBANIZACIÓN ""EL BOSQUE""";Excelente estado;"AV. CENTENARIO. URBANIZACIÓN ""EL BOSQUE"", Condebamba, Cochabamba";2019;4;3;1.000 m2;2;800 m2;3;U$S 790.000
 Q8024;CASA EN VENTA IDEAL PARA NEGOCIO;Excelente estado;Av. Coronado entre 3er y 4to anillo, Este, Santa Cruz;2014;5;3;828 m2;2;570 m2;3;U$S 450.000
 NEAB8;LUJOSA CASA MINIMALISTA EN VENTA URBANIZACION EL BOSQUE SUR;Excelente estado;Av. Centenario (Urbanización El Bosque Sur), Condebamba, Cochabamba;2012;4;3;1.000 m2;2;503 m2;3;U$S 650.000
 I07E2;Entre 2do y 3er anillo, entre Avenida San Pablo y Virgen de Cotoca, Calle Curumbá.;Sin Definir;Este, Santa Cruz;2020;5;3;455 m2;¡Preguntale!;340 m2;1;U$S 290.000
@@ -155,7 +155,7 @@ U73534;VIRGEN DE COTOCA- URBANIZACION EL MUNDO;A estrenar;Urbanizacion el mundo 
 QB041C;CASA PIRAI 6TO ANILLO;Excelente estado;pirai, Oeste, Santa Cruz;2018;3;3;195 m2;1;155 m2;2;U$S 135.000
 OF243F;CASA DE LUJO AL NORTE;Buen estado;4to anillo, Norte, Santa Cruz;2012;4;3;480 m2;2;600 m2;2;U$S 580.000
 Z31811;Norte km 8½ Condominio Cerrado;A estrenar;Km 8½ norte, Remanso, Santa Cruz;2022;4;3;160 m2;2;176 m2;2;U$S 119.000
-X750DB;Casas en Pre-Venta en "CONDOMINIO URUBÓ NORD";A estrenar;Urubo, Urubó, Santa Cruz;2022;3;3;210 m2;2;153 m2;2;U$S 145.000
+X750DB;"Casas en Pre-Venta en ""CONDOMINIO URUBÓ NORD""";A estrenar;Urubo, Urubó, Santa Cruz;2022;3;3;210 m2;2;153 m2;2;U$S 145.000
 R36C31;CASA EN VENTA EN COLINAS DEL URUBO SECTOR 2;Excelente estado;URUBO, Urubó, Santa Cruz;2015;5;3;1.595 m2;2;802 m2;3;U$S 1.200.000
 X4648C;CASAS EN VENTA ZONA ESTE EN CONDOMINIO;A estrenar;Este, Santa Cruz;2022;None;3;182 m2;2;130 m2;2;U$S 80.000
 IFA4C4;CASA EN VENTA B/ LAS PALMAS. Próximo al Col. Americano;Excelente estado;Las Palmas, Oeste, Santa Cruz;2002;4;3;596 m2;2;600 m2;2;U$S 600.000
@@ -210,7 +210,7 @@ Q5A692;CASA EN VENTA ZONA NORTE AV. ALEMANA;Excelente estado;7mo. Y 8vo. ANILLO,
 U571AE;Casa en venta zona norte Condominio Terranova;Excelente estado;7mo anillo, Norte, Santa Cruz;2018;3;3;250 m2;2;170 m2;2;U$S 150.000
 Q25F56;HERMOSA CASA COMERCIAL EN VENTA.;Excelente estado;Av. Doble vía a la Guardia Entre 6to y 7mo anillo, Oeste, Santa Cruz;2010;5;3;2.189 m2;2;1.140 m2;3;U$S 1.290.000
 AE8AFD;CASA EN VENTA LADO CONDOMINIO BUGANVILLAS.;Excelente estado;3er. y 4to. anillo, Zona Roca y Coronado2, Oeste, Santa Cruz;2015;3;3;181 m2;2;165 m2;1;U$S 210.000
-OD8293;CASA EN VENTA Y/O ALQUILER CONDOMINIO "LAS PALMERAS";Excelente estado;4to y 5to ANILLO ENTRE RADIALES 26 Y 27, Norte, Santa Cruz;2015;3;3;202 m2;2;198 m2;2;U$S 169.800
+OD8293;"CASA EN VENTA Y/O ALQUILER CONDOMINIO ""LAS PALMERAS""";Excelente estado;4to y 5to ANILLO ENTRE RADIALES 26 Y 27, Norte, Santa Cruz;2015;3;3;202 m2;2;198 m2;2;U$S 169.800
 G1A764;Casa fuera de Condominio Zona Norte, 6to Anillo Av. Pedro Vélez;Excelente estado;6to Anillo Av. Pedro Vélez, Norte, Santa Cruz;2020;5;3;720 m2;2;660 m2;3;U$S 460.000
 C422FB;HERMOSA CASA EN SEVILLA LAS TERRAZAS;Excelente estado;Km 10, Norte, Santa Cruz;2010;3;1;197 m2;1;95 m2;1;U$S 87.000
 A9BC7A;Casa en venta en Urbanización Valle Azul (Avenida Banzer 7mo anillo);Excelente estado;Avenida Cristo Redentor 7mo anillo, Norte, Santa Cruz;2009;4;3;312 m2;2;356 m2;3;U$S 228.000
@@ -232,7 +232,7 @@ Z8F877;HERMOSA CASA EN VENTA COLINAS URUBO II;Excelente estado;Colinas Urubo II,
 J75A52;Casa en condominio Río Sierra Urubo;A estrenar;Condominio Rio Sierra, Urubó, Santa Cruz;2021;3;3;686 m2;2;353 m2;2;U$S 348.000
 T7CA1E;CASA DE LUJO EN VENTA EN EQUIPETROL NORTE.;Excelente estado;Equipetrol Norte, Norte, Santa Cruz;2020;4;3;304 m2;1;210 m2;3;U$S 310.000
 UC8781;VENTA CASA NORTE - 3 DORM EN SUITE;Excelente estado;AV. BENI Y 5TO ANILLO, Norte, Santa Cruz;2018;3;3;309 m2;2;320 m2;2;U$S 338.000
-O2FA9F;CASA DE LUJO EN EL URUBÓ "Condominio Danta Cruz lanvieja";Excelente estado;Condominio Santa Cruz la Vieja , Urubó, Santa Cruz;2022;4;3;554 m2;2;500 m2;3;U$S 410.000
+O2FA9F;"CASA DE LUJO EN EL URUBÓ ""Condominio Danta Cruz lanvieja""";Excelente estado;Condominio Santa Cruz la Vieja , Urubó, Santa Cruz;2022;4;3;554 m2;2;500 m2;3;U$S 410.000
 SC6FB2;MONOAMBIENTE AMOBLADO EQUIPETROL;A estrenar;SAN MARTIN 3ER ANILLO EXTERNO C.AZUCENAS, Equipetrol, Santa Cruz;2021;¡Preguntale!;1;41 m2;3;41 m2;¡Preguntale!;U$S 52.000
 T20401;LUJOSA CASA COND. RIO SIERRA - URUBO;Excelente estado;condominio Rio sierra , Urubó, Santa Cruz;2020;4;3;625 m2;2;400 m2;3;U$S 390.000
 F8919D;Zona norte Casa en Venta (Asai);A estrenar;Zona Norte km 8½ Banzer (Zona Col. Cambridge), Remanso, Santa Cruz;2022;3;3;160 m2;2;162 m2;2;U$S 112.900
@@ -245,7 +245,7 @@ S95FD3;Casa en Condominio (Zona Norte km 8½) Hermosas áreas sociales;A estrena
 FAD930;COND. JARDINES DEL URUBO II;Excelente estado;CONDOMINIO JARDINES DEL URUBO II, Urubó, Santa Cruz;2016;3;3;269 m2;1;180 m2;2;U$S 220.000
 UE2A85;PLATINIUM II - 2DORM PISO 10;A estrenar;4TO ANILLO SAN MARTIN , Equipetrol, Santa Cruz;2020;2;1;73 m2;3;73 m2;1;U$S 98.750
 Y24B49;CASA EN VENTA - BARRIO LAS PALMAS;Buen estado;Las palmas, Santa Cruz;¡Preguntale!;3;3;240 m2;1;223 m2;2;U$S 245.000
-Q8A79F;CASA DE LUJO EN EL URUBÓ- CONDOMINIO CERRADO;A estrenar;URUBÓ "Urbanización cerrada Santa Cruz la vieja", Urubó, Santa Cruz;2022;3;3;453 m2;2;374 m2;3;U$S 359.000
+Q8A79F;CASA DE LUJO EN EL URUBÓ- CONDOMINIO CERRADO;A estrenar;"URUBÓ ""Urbanización cerrada Santa Cruz la vieja"", Urubó, Santa Cruz";2022;3;3;453 m2;2;374 m2;3;U$S 359.000
 Z84776;Linda Casa al norte;A estrenar;banzer, Norte, Santa Cruz;2021;3;3;182 m2;2;290 m2;2;U$S 170.000
 N54532;CASA OESTE;A estrenar;6to anillo, Oeste, Santa Cruz;2017;3;3;170 m2;2;134 m2;2;U$S 124.000
 F57EE0;CASA EN VENTA - REMANSO;Excelente estado;REMANSO - AV. BANZER, Norte, Santa Cruz;¡Preguntale!;4;3;420 m2;2;260 m2;3;U$S 190.000
@@ -261,7 +261,7 @@ T95C17;Virgen de Cotoca 4to. Anillo CASA EN VENTA;Buen estado;Av. Virgen de Coto
 18520;CHALET EN ZONA DOBLE VIA A LA GUARDIA. MODERNO;A estrenar;Radial 17 Y 1/2, Doble via la guardia, Santa Cruz;2019;3;2;280 m2;1;120 m2;2;U$S 79.000
 4D441;CASA EN CONDOMINIOO EN ZONA SUR;A estrenar;6to y 7mo sur, Sur, Santa Cruz;2018;4;3;300 m2;2;200 m2;3;U$S 96.000
 5F09C;CASAS CHALETS A ESTRENAR;A estrenar;AV MONTECRISTO 9NO ANILLO, Este, Santa Cruz;2019;3;2;300 m2;1;85 m2;1;U$S 63.500
-05697;CASA DENTRO DE CONDOMINIO;A estrenar;7MO ANILLO ZONA SUR, Sur, Santa Cruz;2018;4;3;260 m2;2;150 m2;2;U$S 96.000
+5697;CASA DENTRO DE CONDOMINIO;A estrenar;7MO ANILLO ZONA SUR, Sur, Santa Cruz;2018;4;3;260 m2;2;150 m2;2;U$S 96.000
 E2391;CASAS MINIMALISTAS ZONA OESTE;A estrenar;R17 7MO ANILLO, Oeste, Santa Cruz;2019;3;2;240 m2;1;110 m2;1;U$S 79.000
 719B3;CASA SOBRE AVENIDA;A estrenar;6TO ANILLO EXTERNO ZONA SUR, Sur, Santa Cruz;¡Preguntale!;3;3;210 m2;2;150 m2;1;U$S 100.000
 CA143;LINDO DEPARTAMENTO EN LAS PALMAS;Excelente estado;LAS PALMAS, Oeste, Santa Cruz;¡Preguntale!;3;3;200 m2;1;200 m2;2;U$S 221.000
@@ -302,7 +302,7 @@ P55651;CASAS A ESTRENAR CON PRECIOS DE PREVENTA EN AV. SANTOS DUMONT;A estrenar;
 N6400C;CASA EN VENTA ZONA SIRARI EQUIPETROL;Excelente estado;Equipetrol B/ Sirari , Equipetrol, Santa Cruz;¡Preguntale!;4;3;370 m2;2;488 m2;2;U$S 370.000
 1E396;HERMOSA CASA EN OFERTA;Excelente estado;Este, Santa Cruz;¡Preguntale!;3;2;200 m2;¡Preguntale!;120 m2;¡Preguntale!;U$S 60.000
 W2B98A;COMODA CASA EN VENTA EN CONDOMINIO VICTORIA ZONA 4TO ANILLO ROCA Y CORONADO;Buen estado;Oeste, Santa Cruz;2012;3;3;265 m2;1;132 m2;2;U$S 149.000
-M47F6C;Casa en Condominio "Almería Beni";Excelente estado;Av. Beni y 8vo anillo, Norte, Santa Cruz;2018;3;3;30.285 m2;1;164 m2;2;U$S 149.900
+M47F6C;"Casa en Condominio ""Almería Beni""";Excelente estado;Av. Beni y 8vo anillo, Norte, Santa Cruz;2018;3;3;30.285 m2;1;164 m2;2;U$S 149.900
 W0BE4E;Cómoda casa en venta con piscina Remanso 3,;Buen estado;remanso 3, Remanso, Santa Cruz;¡Preguntale!;3;3;275 m2;1;160 m2;¡Preguntale!;U$S 138.500
 WBF489;CASA EN PREVENTA Barrio ORIENTAL, 4TO ANILLO, Canal Isuto;En construcción;RADIAL 26 ENTRE 4TO Y 5TO ANILLO, Norte, Santa Cruz;2023;3;3;175 m2;2;194 m2;2;U$S 167.000
 X6241;Barrio La Ramada zona comercial vendo Casas cerca Av Isabel La Catolica;Requiere mantenimiento;Cerca Isabel La Catolica y La Ramada, Oeste, Santa Cruz;1997;5;2;380 m2;1;320 m2;2;U$S 380.000
@@ -319,7 +319,7 @@ F79225;CASA EN VENTA DE DOS PLANTAS AV. BENI 5TO ANILLO;Excelente estado;Av. Ben
 Z4529F;CASA EN VENTA SOBRE AV. MUTUALISTA;Buen estado;Av. Mutualista entre 3er y 4to anillo, sobre la Avenida, Este, Santa Cruz;1995;5;3;300 m2;2;270 m2;3;U$S 240.000
 T4906F;Casa en Fontana;A estrenar;Fontana, Norte, Santa Cruz;2022;3;2;42.660 m2;1;9.761 m2;2;U$S 105.500
 RE81B3;Casa en venta con piscina en condominio zona norte;Buen estado;Zona norte Remanso, Remanso, Santa Cruz;¡Preguntale!;5;3;598 m2;2;480 m2;3;U$S 305.000
-WCD56B;CASA EN VENTA ZONA NORTE "CIUDAD JARDIN";Buen estado;Zona norte 6to anillo Condominio Ciudad Jardin, Norte, Santa Cruz;¡Preguntale!;3;3;300 m2;2;332 m2;3;U$S 260.000
+WCD56B;"CASA EN VENTA ZONA NORTE ""CIUDAD JARDIN""";Buen estado;Zona norte 6to anillo Condominio Ciudad Jardin, Norte, Santa Cruz;¡Preguntale!;3;3;300 m2;2;332 m2;3;U$S 260.000
 ZBEF40;CASA EN VENTA, SAN ALBERTO;Excelente estado;URBANIZACIÓN SAN ALBERTO, San Alberto, La Paz;¡Preguntale!;4;3;1.190 m2;2;591 m2;3;U$S 980.000
 45495;HERMOSA CASA DE OCASIÓN SEVILLA LOS JARDINES;A estrenar;SEVILLA LOS JARDINES, Norte, Santa Cruz;¡Preguntale!;3;2;180 m2;1;95 m2;1;U$S 500
 UB9734;CASA A ESTRENAR EN REMANSO 3;A estrenar;REMANSO 3, Remanso, Santa Cruz;2022;3;3;150 m2;2;145 m2;2;U$S 109.000
@@ -371,7 +371,7 @@ V4E60E;CASA EN VENTA ZONA URUBO;Excelente estado;CONDOMINIO LA HACIENDA URUBO , 
 UDB11F;TERRENO AMPLIO EN VENTA EN CONDOMINIO CERRADO - ZONA NORTE;Excelente estado;zona norte 5to anillo radial 26, Norte, Santa Cruz;¡Preguntale!;3;2;929 m2;1;70 m2;3;U$S 210.000
 S7A47D;Condominio Jardines del Urubo 1;Buen estado;Condominio jardines del urubo 1, Urubó, Santa Cruz;2016;5;3;1.443 m2;2;1.043 m2;3;U$S 890.000
 fFA51;Achumani - Propietario Vende Casa con Amplio Jardín;Buen estado;Huantaqui (Calle 6), Achumani, La Paz;2013;3;2;300 m2;2;180 m2;3;U$S 198.000
-495E5;CASA EN VENTA LOMAS ALTO IRPAVI;Excelente estado;ALTO IRPAVI LOMAS DE UCHUAMAYA ENTRE C/A Y C/1, Irpavi, La Paz;2010;5;3;300 m2;3;¡Preguntale!;3;U$S 185.000
+4,95E+07;CASA EN VENTA LOMAS ALTO IRPAVI;Excelente estado;ALTO IRPAVI LOMAS DE UCHUAMAYA ENTRE C/A Y C/1, Irpavi, La Paz;2010;5;3;300 m2;3;¡Preguntale!;3;U$S 185.000
 GCEFFB;Colinas del Urubo - Casa en venta;Excelente estado;Colinas del Urubo Sector 1, Urubó, Santa Cruz;2020;4;3;760 m2;2;516 m2;2;U$S 590.000
 PB5359;Bella y Amplia Casa en Venta Zona Sur;Buen estado;Santos Dumont Urb. Occibol, Sur, Santa Cruz;2010;5;3;420 m2;2;285 m2;3;U$S 225.000
 F7D34;Propiedad para ingresar directo;Buen estado;Norte, Santa Cruz;¡Preguntale!;3;2;130 m2;¡Preguntale!;110 m2;¡Preguntale!;U$S 87.900
@@ -415,7 +415,7 @@ WC090C;HERMOSA CASA MINIMALISTA, 3 PLANTAS, SECTOR AV. VICTOR USTARIZ KM 6;Buen 
 CDFC79;Casa en venta a entrenar en zona norte;A estrenar;Av banzer km 8/1, Remanso, Santa Cruz;2022;3;2;291 m2;1;100 m2;2;U$S 79.000
 DF6015;CASA EN VENTA CERCA AV. 2DA CIRCUNVALACION;Excelente estado;Cochabamba, Cochabamba;¡Preguntale!;4;3;320 m2;3;232 m2;3;U$S 164.000
 XAFCD4;CASA EN VENTA CON 2 DEPARTAMENTOS COLINAS DE ANDALUCIA;En construcción;Cochabamba, Cochabamba;2020;5;3;450 m2;3;528 m2;2;U$S 230.000
-207E1;LAS ORQUIDEAS;A estrenar;Este, Santa Cruz;¡Preguntale!;3;2;100 m2;¡Preguntale!;300 m2;¡Preguntale!;U$S 46.500
+2,07E+03;LAS ORQUIDEAS;A estrenar;Este, Santa Cruz;¡Preguntale!;3;2;100 m2;¡Preguntale!;300 m2;¡Preguntale!;U$S 46.500
 41B9E;Hermosa Casas en Venta;A estrenar;Oeste, Santa Cruz;2018;3;2;160 m2;2;160 m2;2;U$S 120.000
 Z99B49;CASA EN VENTA ZONA URUBO CONDOMINIO JARDINES DEL URUBO l;Excelente estado;urubo, Urubó, Santa Cruz;5;4;3;800 m2;2;580 m2;3;U$S 650.000
 Y230EB;Condominio Urubo Country;Excelente estado;Condominio Urubo Country , Urubó, Santa Cruz;¡Preguntale!;4;3;2.200 m2;2;1.393 m2;3;U$S 1.280.000
@@ -424,7 +424,7 @@ L74E1B;Propiedad de lujo en Colinas Urubo;Excelente estado;Colinas del Urubo, Ur
 D67088;CASA EN VENTA EN CONDOMINIO ZONA NORTE;Excelente estado;AV. BANZER 7MO ANILLO, Norte, Santa Cruz;2;3;3;167 m2;2;150 m2;2;U$S 149.000
 AA0EB2;EN VENTA CASA EN SEVILLA LAS TERRAZAS 2;Excelente estado;CONDOMINIO SEVILLA LAS TERRAZAS 2, Norte, Santa Cruz;6;4;2;220 m2;1;180 m2;2;U$S 94.000
 Q9D6AD;Casa en Venta Condominio La Fontana La Riviera 1;Buen estado;Km 8 y medio entre G77 y Avenida Internacional, Norte, Santa Cruz;2017;3;2;264 m2;1;108 m2;1;U$S 95.000
-PD3633;CASA EN VENTA CONDOMINIO "FLORESTA";Excelente estado;Av. Banzer entre 5to y 6to anillo, Norte, Santa Cruz;¡Preguntale!;3;3;200 m2;2;180 m2;2;U$S 168.000
+PD3633;"CASA EN VENTA CONDOMINIO ""FLORESTA""";Excelente estado;Av. Banzer entre 5to y 6to anillo, Norte, Santa Cruz;¡Preguntale!;3;3;200 m2;2;180 m2;2;U$S 168.000
 159BE;VENTA DE CASA POR NECESIDAD DE ENFERMEDAD;Excelente estado;barrio jardin latino calle sayubu # 55, Oeste, Santa Cruz;2005;3;2;391 m2;1;290 m2;1;U$S 140.000
 X94B0A;EN VENTA PRECIOSA CASA EN UMAMANTA;Excelente estado;Umamanta, Umamanta, La Paz;¡Preguntale!;5;3;570 m2;2;360 m2;3;U$S 355.000
 FF70D5;CASA EN ZONA DE GRAN PLUSVALIA - TARIJA;A estrenar;San Blas, cerca a la villa olímpica. S/N, Tarija, Tarija;¡Preguntale!;3;2;300 m2;1;300 m2;3;U$S 95.000
@@ -485,7 +485,7 @@ H7AFA1;HERMOSA CASA 4 DORM.+ 3 GARAJES . PROX. EL BOSQUE I;Excelente estado;cond
 S62581;Casa en venta de Ocasión con piscina, Equipetrol;Buen estado;Entre 3er y 4to anillo, Equipetrol Norte, Equipetrol, Santa Cruz;15;4;3;314 m2;2;247 m2;2;U$S 345.000
 CC07A6;CASA EN VENTA - URUBO;Excelente estado;Santa cruz de la vieja, Urubó, Santa Cruz;¡Preguntale!;4;3;546 m2;2;500 m2;3;U$S 410.000
 B1F9D;CASA DE LUJO A ESTRENAR-LA HACIENDA DEL URUBO;A estrenar;CONDOMINIO LA HACIENDA DEL URUBO, Urubó, Santa Cruz;2019;5;3;754 m2;3;640 m2;3;U$S 630.000
-95E85;HERMOSA CASA EN EL URUBO, OFERTA;Excelente estado;Urbanización jardines del Urubó II calle caoba nª 16, Urubó, Santa Cruz;2009;3;3;420 m2;2;160 m2;1;U$S 180.000
+9,50E+86;HERMOSA CASA EN EL URUBO, OFERTA;Excelente estado;Urbanización jardines del Urubó II calle caoba nª 16, Urubó, Santa Cruz;2009;3;3;420 m2;2;160 m2;1;U$S 180.000
 KF2044;Lujosa casa equipada al detalle en Condominio exclusivo(Zona Oeste).;Excelente estado;Radial 17/12 y Av. Pirai 4y5 Anillo., Oeste, Santa Cruz;¡Preguntale!;3;2;289 m2;2;315 m2;1;U$S 285.000
 U3DB95;CASA EN VENTA;Excelente estado;6 Anillo, Virgen de Luján, Este, Santa Cruz;¡Preguntale!;4;1;360 m2;1;200 m2;1;U$S 95.000
 QC230D;Casa de 3 dormitorios en zona Este;Excelente estado;Barrio Guapilo Norte santa cruz, Este, Santa Cruz;2 años;3;2;340 m2;1;131 m2;2;U$S 56.700
@@ -564,7 +564,7 @@ R238DF;Casa a Estrena Económica;A estrenar;Km 7 y medio a Cotoca - Urbanizació
 FA231B;Hermoso condominio;Buen estado;Norte, Santa Cruz;¡Preguntale!;3;3;312 m2;1;174 m2;2;U$S 230.000
 BA8BAE;BONITA CASA EN VENTA Urbanización Las Palmitas.;Buen estado;Zona Sur 6to Anillo, Urbanización Las Palmitas., Sur, Santa Cruz;2015;3;2;270 m2;2;170 m2;2;U$S 108.000
 N222F4;Excelente invercion;Buen estado;Norte, Santa Cruz;¡Preguntale!;5;3;646 m2;2;448 m2;3;U$S 345.000
-ABA72E;HERMOSA CASA EN ALQUILER O EN VENTA COND. "LA FONTANA LA RIVIERRA;Buen estado;Zona Norte, Km. 9 1/2 Av. G-77, Norte, Santa Cruz;2015;3;3;231 m2;2;180 m2;2;U$S 100.000
+ABA72E;"HERMOSA CASA EN ALQUILER O EN VENTA COND. ""LA FONTANA LA RIVIERRA";Buen estado;Zona Norte, Km. 9 1/2 Av. G-77, Norte, Santa Cruz;2015;3;3;231 m2;2;180 m2;2;U$S 100.000
 OF9F84;HERMOSA CASA EN VENTA DE 3 DORMITORIOS Radial 26, 9no anillo;Buen estado;Radial 26, 9no anillo, entrando por Mainter, Norte, Santa Cruz;2014;3;2;199 m2;1;150 m2;3;U$S 89.800
 X83CB2;CASA EN VENTA EN ZONA NORTE Urbanización Palos Verdes.;Buen estado;Urbanización Palos Verdes 7MO AV. BENI, Norte, Santa Cruz;2012;3;2;312 m2;1;138 m2;2;U$S 78.500
 VB5FEA;HERMOSA PROPIEDAD EN VENTA ZONA CHIQUICOLLO- FINAL AMERICA OESTE;Buen estado;INMEDIACIONES CHIQUICOLLO- FINLA AMERICA OESTE, Sarco, Cochabamba;¡Preguntale!;3;4;300 m2;3;200 m2;1;U$S 165.000
@@ -710,7 +710,7 @@ J39075;CASAS EN PRE VENTA EN CONDOMINIO NATURAL VILLAGE ZONA NORTE;A estrenar;Ub
 F92503;BELLA CASA EN VENTA;Excelente estado;- Ubicado en zona Residencial Oeste, Av. Piraí 6to anillo, de la ciudad de Santa Cruz de La Sierra - Bolivia , Oeste, Santa Cruz;¡Preguntale!;3;3;170 m2;2;134 m2;1;U$S 135.000
 None;BELLA CASA EN VENTA;None;None;¡Preguntale!;None;None;None;None;None;None;None
 PE62BF;Casa en Venta - Zona Norte;Excelente estado;Condominio LA COLINA, Norte, Santa Cruz;2015;3;3;302 m2;2;278 m2;2;Consultar
-73E90;Casas tipo town house en condominio cerrado;Excelente estado;KM 7.5 avenida circunvalacion este 3 cuadras al sud parada 212-230, Sacaba, Cochabamba;2018;4;3;150 m2;3;180 m2;1;U$S 100.000
+7,30E+91;Casas tipo town house en condominio cerrado;Excelente estado;KM 7.5 avenida circunvalacion este 3 cuadras al sud parada 212-230, Sacaba, Cochabamba;2018;4;3;150 m2;3;180 m2;1;U$S 100.000
 5BE2D;ya estuvo abitado;Requiere mantenimiento;Kenco, El alto;¡Preguntale!;3;1;300 m2;¡Preguntale!;163 m2;¡Preguntale!;U$S 41.000
 a2320;CASA EN VENTA SEVILLA;Buen estado;sevilla, Norte, Santa Cruz;¡Preguntale!;3;2;120 m2;1;123 m2;2;U$S 88.000
 50F5F;Casa No. 35 En Venta Condominio Dalí El Remanso. Área social seguridad 24 horas;Buen estado;Ingreso por el Remanso . Condominio Los Pintores, Remanso, Santa Cruz;2012;3;3;250 m2;1;150 m2;2;U$S 115.000
@@ -735,7 +735,7 @@ SC1BA5;CASA EN VENTA ZONA NORTE - CHICHAPI;Excelente estado;Calle Chichapi , Nor
 XEA459;CASA INDEPENDIENTE EN VENTA-FINAL BEIJIN;Buen estado;AV. BEIJING, Condebamba, Cochabamba;2016;4;3;255 m2;2;209 m2;2;U$S 155.000
 9F6E2;Casa en Venta. Urbanización el Trapiche, 2 dormitorios, $us 60.000, Wsapp. 71016;Excelente estado;Urbanización El Trapiche, Este, Santa Cruz;¡Preguntale!;2;2;480 m2;1;180 m2;2;U$S 60.000
 12FB3;Gran oferta Inperdible a lolo 135000 $ casa Z723 de Marzo Achumani Ref. 71985224;A estrenar;calle 9 Nro. 1416 23 de marzo Achumani, Achumani, La Paz;2017;3;2;200 m2;3;210 m2;3;U$S 135.000
-64E27;En venta una casa de 316mts2 llamar al:79507461;Buen estado;Villa Adela, El alto;¡Preguntale!;2;1;316 m2;1;316 m2;1;U$S 45.000
+6,40E+28;En venta una casa de 316mts2 llamar al:79507461;Buen estado;Villa Adela, El alto;¡Preguntale!;2;1;316 m2;1;316 m2;1;U$S 45.000
 9EDE5;casa en venta 86000;Excelente estado;barrio 24 de junio mercado el triunfo, Sur, Santa Cruz;¡Preguntale!;5;2;462 m2;1;20 m2;1;U$S 86.000
 H8C07A;HERMOSA CASA EN ALQUILER EN URB. PRIVADA DECALACOTO;Excelente estado;Urb. Privada, Calacoto, La Paz;¡Preguntale!;4;3;530 m2;2;567 m2;3;U$S 700.000
 VEB338;CASA EN ALQUILER GRANDE CÓMODA AMBIENTES SUPER ELEGANTES EN ACHUMANI;Excelente estado;Urb. Privada, Achumani, La Paz;¡Preguntale!;4;3;511 m2;3;740 m2;3;U$S 750.000
@@ -777,7 +777,7 @@ G589EB;CASA EN VENTA DE 6 DORMITORIOS Y PISCINA EN LA AV. MUTUALISTA 4TO ANILLO;
 ZF3507;HERMOSA CASA EN VENTA ESPECIAL PARA PERSONAS MAYORES ZONA NORTE : SE PERMUTA;Excelente estado;Norte, Santa Cruz;¡Preguntale!;3;2;454 m2;1;165 m2;3;U$S 179.000
 S20722;Casa en VENTA en Zona NorTe. FinanciamienTo de vivienda social;A estrenar;Norte, Santa Cruz;2022;3;3;180 m2;2;126 m2;2;U$S 60.000
 Y242E2;VENTA HERMOSA CASA a estrenar, zona URUBO;A estrenar;condominio mirage urubo , Urubó, Santa Cruz;2022;3;3;400 m2;2;240 m2;3;U$S 215.000
-HA34F8;DEPARTAMENTO EN VENTA;Excelente estado;CONDOMINIO "UNO" AV. TRINIDAD ZONA NORTE., Norte, Santa Cruz;¡Preguntale!;3;3;9.277 m2;1;9.277 m2;2;U$S 87.000
+HA34F8;DEPARTAMENTO EN VENTA;Excelente estado;"CONDOMINIO ""UNO"" AV. TRINIDAD ZONA NORTE., Norte, Santa Cruz";¡Preguntale!;3;3;9.277 m2;1;9.277 m2;2;U$S 87.000
 CE7223;Cas en venta en Urubo;Excelente estado;Condominio La Floresta, Urubó, Santa Cruz;2010;4;3;784 m2;1;485 m2;3;U$S 270.000
 M388D1;CASA EN VENTA EL URUBO;Excelente estado;CONDOMINIO JARDINES DEL URUBO, Urubó, Santa Cruz;2019;5;3;716 m2;3;438 m2;3;U$S 290.000
 B7C749;HERMOSA CASA EN VENTA ZONA REMANSO;Buen estado;Remanso, Santa Cruz;¡Preguntale!;3;2;184 m2;1;186 m2;2;U$S 120.000
@@ -840,7 +840,7 @@ RE271A;Casa en Venta en la Meseta deAchumani;Excelente estado;Meseta Alta de Ach
 2FCDE;casa en venta de 2 y 3 dormitorios;A estrenar;virgen de cotoca, Este, Santa Cruz;2019;3;2;300 m2;1;100 m2;2;U$S 47.500
 4656D;Amplia casa;Buen estado;av atahuallpa casi circunvalacion, Cala Cala, Cochabamba;¡Preguntale!;3;2;380 m2;2;190 m2;2;U$S 230.000
 94311;EXTRANJERA VENDE POR VIAJE CASA en Zona Norte, El Remanso 2;Excelente estado;Calle Sirari 735 El Remanso 2, Remanso, Santa Cruz;2010;4;3;300 m2;1;160 m2;2;U$S 129.000
-7951A;HERMOSA CASA EN VENTA CONDOMINIO "SEVILLA LAS TERRAZAS I" POR VIAJE...;Excelente estado;CONDOMINIO SEVILLA LAS TERRZAS I, KM. 10 CARRETERA AL NORTE. , Norte, Santa Cruz;¡Preguntale!;3;2;203 m2;1;123 m2;2;U$S 88.500
+7951A;"HERMOSA CASA EN VENTA CONDOMINIO ""SEVILLA LAS TERRAZAS I"" POR VIAJE...";Excelente estado;CONDOMINIO SEVILLA LAS TERRZAS I, KM. 10 CARRETERA AL NORTE. , Norte, Santa Cruz;¡Preguntale!;3;2;203 m2;1;123 m2;2;U$S 88.500
 AB04B;PROPIETARIO VENDE CASA INICIO LOMAS DE ACHUMANI;Buen estado;Inicio Lomas de Achumani lado Urbanización Entel II, Achumani, La Paz;2014;4;3;236 m2;3;287 m2;2;U$S 195.000
 H387E2;Av. Banzer Y La Chonta;Excelente estado;Almería La Chonta KM 8 1/2, Norte, Santa Cruz;¡Preguntale!;3;3;265 m2;2;200 m2;2;U$S 130.000
 K561FD;TERRENO EN VENTA COMPLEJO CAMPESTRE NORTE 1;Sin Definir;COMPLEJO CAMPESTRE NORTE 1, Norte, Santa Cruz;¡Preguntale!;¡Preguntale!;1;1.616 m2;1;¡Preguntale!;1;U$S 62.500
@@ -882,8 +882,8 @@ FD66D;BELLA CASA EN BAJO SEGÜENCOMA;Excelente estado;Bajo Següencoma, Seguenco
 68F38;CASA EN ESQUINA zona ciudad del niño, urbanizacion ecologica, diseño funcional.;A estrenar;Urbanizacion Ecologica, zona ciudad del niño a 2 cuadra de la circunvalacion, Tiquipaya, Cochabamba;2018;5;3;252 m2;3;245 m2;3;U$S 175.000
 821F2;Casa En Venta Ciudad Satélite;Excelente estado;Ciudad Satélite, El alto;2005;5;3;200 m2;2;250 m2;3;U$S 189.000
 1DA2D;Casa a estrenar Valle Sanchez;A estrenar;Norte, Santa Cruz;¡Preguntale!;3;2;335 m2;¡Preguntale!;120 m2;¡Preguntale!;U$S 65.000
-59E92;casa;Buen estado;ZONA DE INKA RANCHO.Av, Villazon Km. 7,1/2 de la altura del Surtidor "QK" BAJAR HACIA EL SUD 4 CUADRAS, Sacaba, Cochabamba;2017;4;3;250 m2;2;190 m2;3;U$S 98.000
-563DF;CASA EN VENTA ZONA NORTE "CASA YA VENDIDA";Excelente estado;Condominio Casa Club Norte Ingreso la Chonta Zona norte , Norte, Santa Cruz;2015;3;2;170 m2;1;140 m2;2;U$S 69.500
+5,90E+93;casa;Buen estado;"ZONA DE INKA RANCHO.Av, Villazon Km. 7,1/2 de la altura del Surtidor ""QK"" BAJAR HACIA EL SUD 4 CUADRAS, Sacaba, Cochabamba";2017;4;3;250 m2;2;190 m2;3;U$S 98.000
+563DF;"CASA EN VENTA ZONA NORTE ""CASA YA VENDIDA""";Excelente estado;Condominio Casa Club Norte Ingreso la Chonta Zona norte , Norte, Santa Cruz;2015;3;2;170 m2;1;140 m2;2;U$S 69.500
 33C91;casa;Buen estado;av blanco galindo km11 1/2 calle saavedra,, Quillacollo, Cochabamba;¡Preguntale!;4;2;210 m2;1;180 m2;1;U$S 92.000
 CA405;Casa a estrenar en tiquipaya;A estrenar;Av. Gualberto Villarroel casi Av. Chapisirca, Tiquipaya, Cochabamba;2017;4;3;315 m2;2;215 m2;2;U$S 155.000
 7A572;EXTRANJERA VENDE POR VIAJE CASA en Condominio Privado;Excelente estado;Condominio Las Brisas Norte casa 55, 8 1/2 anillo, Zona Norte, Remanso, Santa Cruz;2013;3;3;210 m2;2;145 m2;2;U$S 115.000
@@ -955,7 +955,7 @@ C036D;Hermosa casa en venta;Buen estado;Sur, Santa Cruz;¡Preguntale!;4;1;360 m2
 A1F53;CASAS EN PRE-VENTA URBANIZACIÓN MONTECRISTO ZONA ESTE;En construcción;Este, Santa Cruz;2018;3;2;240 m2;1;114 m2;2;U$S 62.500
 5BE2D;ya estuvo abitado;Requiere mantenimiento;Kenco, El alto;¡Preguntale!;3;1;300 m2;¡Preguntale!;163 m2;¡Preguntale!;U$S 41.000
 C4156;HERMOSA CASA CALLE MOLDES;Buen estado;Calle Moldes frente al Colegio Marista, Centro, Santa Cruz;¡Preguntale!;3;2;177 m2;1;155 m2;¡Preguntale!;U$S 120.000
-41E54;Casa en venta sobre avenida con local comercial;Buen estado;Zona Sur , Zona Los Lotes , Sur, Santa Cruz;¡Preguntale!;4;2;513 m2;1;300 m2;2;U$S 95.000
+4,10E+55;Casa en venta sobre avenida con local comercial;Buen estado;Zona Sur , Zona Los Lotes , Sur, Santa Cruz;¡Preguntale!;4;2;513 m2;1;300 m2;2;U$S 95.000
 F5422;Hermosas casas a estrenar en venta carretera cotoca;A estrenar;carretera cototca , Este, Santa Cruz;¡Preguntale!;3;1;300 m2;1;105 m2;2;U$S 55.200
 E09E4;Hermosas viviendas en Urbanización San Jorge, Haz tu reserva ya!!! Con el 10%;A estrenar;avenida G-77 y Beni a la altura del noveno anillo interno, 5 cuadras próxima carretera a Warnes, Norte, Santa Cruz;2017;3;2;285 m2;1;115 m2;2;U$S 67.500
 AB103;Vivienda unifamiliar minimalista 98 m2;En construcción;Doble vía la guardia, km 15, urb, cumbre las américas fase 7 , Oeste, Santa Cruz;2018;3;2;300 m2;1;98 m2;1;U$S 60.000
@@ -980,7 +980,7 @@ A8D60B;Casa en Venta de lujo en Hacienda de Urubo;A estrenar;CONDOMINIO HACIENDA
 AB692E;CASA DE 4 DORMITORIOS EN AMPLIO TERRENO;Buen estado;avenida beni 6to anillo, Norte, Santa Cruz;¡Preguntale!;4;3;713 m2;1;340 m2;3;U$S 269.500
 IB5E64;CASA CON PISCINA EN TERRENO DE 834 M2;Excelente estado;AVENIDA BANZER , Norte, Santa Cruz;¡Preguntale!;4;3;834 m2;1;337 m2;3;U$S 780.000
 K93947;CASA EN VENTA EN CONDOMINIO SEVILLAS LAS TERRAZAS II;Buen estado;AV G77 ???????????????????????????? ???????????? ???????????????????????????????? ????????, Norte, Santa Cruz;2015;3;2;220 m2;2;142 m2;3;U$S 103.000
-N673BD;CASA EN VENTA EN ESQUINA ZONA NORTE AL FRENTE DE LA CHONTA "CASA CLUB NORTE";Buen estado;FRENTE DE LA CHONTA "CASA CLUB NORTE", Norte, Santa Cruz;2010;3;2;37.687 m2;1;110 m2;¡Preguntale!;U$S 95.000
+N673BD;"CASA EN VENTA EN ESQUINA ZONA NORTE AL FRENTE DE LA CHONTA ""CASA CLUB NORTE""";Buen estado;"FRENTE DE LA CHONTA ""CASA CLUB NORTE"", Norte, Santa Cruz";2010;3;2;37.687 m2;1;110 m2;¡Preguntale!;U$S 95.000
 CD2078;AMPLIA CASA EN VENTA 4 HABITACIONES;Excelente estado;Km8 al norte av banzer , Remanso, Santa Cruz;2015;4;3;311 m2;2;190 m2;2;€ 157.000
 X87122;CASA COMO TERRENO EN EL CENTRO;Sin Definir;Av. Brazil, Este, Santa Cruz;¡Preguntale!;2;1;513 m2;1;80 m2;3;U$S 199.000
 AE9C09;CASA EN VENTA EN EQUIPETROL NORTE;Excelente estado;Equipetrol, Santa Cruz;2000;4;3;314 m2;2;247 m2;2;U$S 345.000
@@ -1034,7 +1034,7 @@ C54DD;Hermosa casa para estrenar;A estrenar;Urb. Sierra Blanca, casa No.9, Lomas
 23413;Propiedad a estrenar;A estrenar;Sacaba, Cochabamba;¡Preguntale!;5;3;333 m2;¡Preguntale!;100 m2;¡Preguntale!;U$S 140.000
 E605E;Hermosa casa en venta en condominio Sevilla Norte 1;Excelente estado;carretera norte, avenida Milton Parra por la univeridad Catolica, Norte, Santa Cruz;¡Preguntale!;3;3;409 m2;1;113 m2;1;U$S 98.000
 11DDF;CASA EN VENTA ZONA SUR ALTO IRPAVI CALLE 9 A UNA CASA DE AV. PRINCIPAL ,UBICACION CÉNTRICA APTA PARA NEGOCIO ,RESTAURAN ,ETC. SUPERFICIE DE 300 M2 .DOCUMENTOS EN ORDEN . TODOS LOS SERVICIOS . REF = 71930875 — 79112817;Buen estado;Alto Irpavi, La Paz;¡Preguntale!;4;1;300 m2;¡Preguntale!;110 m2;¡Preguntale!;U$S 120.000
-14C65;Casa a estrenar Condominio "La Fontana Family Club";A estrenar;Zona Norte, Km 9, Condominio La Fontana Family Club, Norte, Santa Cruz;2014;3;2;252 m2;1;116 m2;1;U$S 85.000
+14C65;"Casa a estrenar Condominio ""La Fontana Family Club""";A estrenar;Zona Norte, Km 9, Condominio La Fontana Family Club, Norte, Santa Cruz;2014;3;2;252 m2;1;116 m2;1;U$S 85.000
 1C251;HERMOSA CASA EN VENTA;A estrenar;CHILLIMARCA TIQUIPAYA, Tiquipaya, Cochabamba;2016;3;3;200 m2;3;210 m2;1;U$S 122.000
 F628C;Daniel Leon;Excelente estado;AV CHILIMARCA, Tiquipaya, Cochabamba;2017;4;3;378 m2;2;310 m2;3;U$S 210.000
 4D445;Casa Bonita Unifamiliar;Buen estado;Sur, Santa Cruz;¡Preguntale!;3;2;238 m2;¡Preguntale!;125 m2;¡Preguntale!;U$S 120.000
@@ -1043,7 +1043,7 @@ B6614;POR MOTIVO DE VIAJE;Buen estado;ZONA SANTA ROSA DISTRITO 1 CIUDAD DE EL AL
 644EF;Venta de casa nueva en la urbanización el Remanso;Excelente estado;Urbanizacion El Remanso, Octavo anillo, Av. Banzer, Remanso, Santa Cruz;2017;3;3;300 m2;1;240 m2;3;U$S 125.000
 6873B;En VENTA hermosa casa a estrenar 200 mts2 $us 135.000;A estrenar;Av. Banzer entre 2do y 3er anillo, Norte, Santa Cruz;¡Preguntale!;4;2;200 m2;1;170 m2;1;U$S 135.000
 6219C;Casa en Venta - La Paz;Excelente estado;Calle 2 de Febrero, entre calles 6 y 7 de Mallasa, Nro 200, Mallasa, La Paz;2013;3;3;178 m2;2;300 m2;2;U$S 190.000
-17E58;Urbanización San Jorge, haz tu reserva ya con el 10%;A estrenar;avenida G-77 y Beni a la altura del noveno anillo interno, 5 cuadras próxima carretera a Warnes, Norte, Santa Cruz;2018;3;2;258 m2;1;110 m2;2;U$S 67.500
+1,70E+59;Urbanización San Jorge, haz tu reserva ya con el 10%;A estrenar;avenida G-77 y Beni a la altura del noveno anillo interno, 5 cuadras próxima carretera a Warnes, Norte, Santa Cruz;2018;3;2;258 m2;1;110 m2;2;U$S 67.500
 50F5F;Casa No. 35 En Venta Condominio Dalí El Remanso. Área social seguridad 24 horas;Buen estado;Ingreso por el Remanso . Condominio Los Pintores, Remanso, Santa Cruz;2012;3;3;250 m2;1;150 m2;2;U$S 115.000
 A69AD;Casa Condominio Dalí, 3 dorm.,a/c, área social, piscina. Cel 76051071;Excelente estado;casa nro 35 Condominio Dalí. cel *** , Remanso, Santa Cruz;2014;3;3;250 m2;1;150 m2;2;U$S 115.000
 7BC18;Casa equipada;Excelente estado;Sur, Santa Cruz;¡Preguntale!;4;3;300 m2;1;165 m2;¡Preguntale!;U$S 108.000
