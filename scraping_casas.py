@@ -1,8 +1,8 @@
 #Tema: Prediccion de precios de Casas
-
 #Nombre : Michael Kevin Rivas Jimenez
 #Carrera :  Ing. Sistemas
-
+import requests
+from bs4 import BeautifulSoup
 from random import randint
 from time import sleep
 from selenium import webdriver
@@ -18,11 +18,31 @@ opts.add_argument("--no-first-run") #
 opts.add_argument("--disable-blink-features=AutomationControlled") #
 opts.add_argument("--headless") #para que no se vea la ventana al ejecutarse
 
+headers = {
+    "user-agent": "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+}
+URL_inicio="https://www.infocasas.com.bo/venta/casas"
+paginas=10
+lista_Paginas=[]
+for x in range(1,paginas):
+    URL_x = URL_inicio + "/pagina"+str(x)
+    lista_Paginas.append(URL_x)
 
+lista_DOMs_Casas=[]
 
-links =['https://www.infocasas.com.bo/casa-en-venta-en-las-palmas/189827163','https://www.infocasas.com.bo/condominio-colinas-verdes-lomas-de-achumani/189307788']
+for lista_casas in lista_Paginas:
+    pagina = requests.get(lista_casas, headers=headers)
+    lista_DOMs_Casas.append(pagina)
 
-for link in links:
+lista_URLs_paginas = []
+for dom in lista_DOMs_Casas:
+    sleep(randint(2,5))
+    soup = BeautifulSoup(dom.text)
+    casas = soup.find_all('a', class_="lc-cardCover")
+    for casa in casas:
+         lista_URLs_paginas.append("https://www.infocasas.com.bo"+casa.get('href'))
+
+for link in lista_URLs_paginas:
     sleep(randint(3,6)) #Para realizar peticiones de forma aleatoria y evitar ser detectados como robots
     try:
         driver = webdriver.Chrome('./chromedriver', chrome_options=opts) #Se carga el driver con las configuraciones para Chrome para utilizar selenium en Chrome
