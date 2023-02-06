@@ -22,9 +22,9 @@ headers = {
     "user-agent": "user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
 }
 URL_inicio="https://www.infocasas.com.bo/venta/casas"
-paginas=30
+paginas=40
 lista_Paginas=[]
-for x in range(20,paginas):
+for x in range(30,paginas):
     URL_x = URL_inicio + "/pagina"+str(x)
     lista_Paginas.append(URL_x)
 
